@@ -1,2 +1,3 @@
-# cocktails-vue
+# Ваш помощник по бару
 Training | The project on vue, fully operational
+Уебный проект | Проект полностью рабочий, бэкенд сторонний. Фронтенд самостоятельный
